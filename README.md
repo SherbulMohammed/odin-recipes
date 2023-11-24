@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipes
+Recipe page to make tasty meals :)
