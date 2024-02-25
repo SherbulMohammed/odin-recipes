@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipe page to make tasty meals :)
+This project was created as part of The Odin Project Foundations Course
